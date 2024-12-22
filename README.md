@@ -9,7 +9,7 @@ The mobile design of the Management Tool is made for smaller screens and focuses
 ![image](https://github.com/user-attachments/assets/7f1ce169-3f84-4c77-b240-14714b05485e)
 ![image](https://github.com/user-attachments/assets/53b1e3f9-82a9-4919-8d79-86794a0e84d5)
 ![image](https://github.com/user-attachments/assets/831b45b6-2aff-409b-afe7-3540f57f4239)
-![image](https://github.com/user-attachments/assets/3a25edc3-f870-4d95-8848-5f714cce493d)
+![image](https://github.com/user-attachments/assets/108f4b90-a4c5-4015-87a3-0ed61e9cb9eb)
 ![image](https://github.com/user-attachments/assets/0ed70e2b-5be2-4e54-b7d3-6f4ed8dc1441)
 ![image](https://github.com/user-attachments/assets/2210ad40-13b5-45bd-9187-d9b6ca741c34)
 ![image](https://github.com/user-attachments/assets/5c04b6cb-3a94-4ed0-9027-fe8e2552b1e1)
