@@ -17,6 +17,10 @@ The mobile design of the Management Tool is made for smaller screens and focuses
 ![image](https://github.com/user-attachments/assets/fb92b9e5-1713-479b-a18c-223aab671f78)
 ![image](https://github.com/user-attachments/assets/ff4a8e69-571e-4d60-8803-8baf09893fdd)
 ![image](https://github.com/user-attachments/assets/d5bd2021-8842-43dc-b9a1-299446e21269)
+
+📱 Light Mode (Mobile)
+The mobile design in light mode offers a clean and bright interface, perfect for those who prefer a more vibrant look.
+
 ![image](https://github.com/user-attachments/assets/371cb65a-afd0-41a0-8d18-201c4b0cefef)
 ![image](https://github.com/user-attachments/assets/85122425-c895-4fbb-b0f1-47072fcbcf67)
 ![image](https://github.com/user-attachments/assets/1fac5688-9794-4859-9f99-7efeeedab8df)
