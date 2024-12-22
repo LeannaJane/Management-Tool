@@ -30,7 +30,8 @@ The mobile design in light mode offers a clean and bright interface, perfect for
 ![image](https://github.com/user-attachments/assets/b8af613e-9936-44b9-b875-2735c8dd0237)
 ![image](https://github.com/user-attachments/assets/8504541e-f507-48f9-a6e8-cf159bf84711)
 ![image](https://github.com/user-attachments/assets/3312c668-f706-4b6c-84fd-74c5cf36f298)
-![image](https://github.com/user-attachments/assets/7ed19a4f-63f6-4164-ac07-d6c1c70745d1)
+![image](https://github.com/user-attachments/assets/4246afbf-cc5a-4acf-a7e4-b2f3b9f404e0)
+
 
 
 
