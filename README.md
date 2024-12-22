@@ -68,3 +68,24 @@ Custom Dashboards: Set up your dashboard the way you want.
 
 🎨 Design Files
 The full design files for both the mobile and desktop versions are available in Figma. You can access them here. https://www.figma.com/proto/k80ANfCBYzvODATWfReSwh/Untitled?node-id=1-70&p=f&t=hcKAqJpeCiXUiBC0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A70&show-proto-sidebar=1 
+
+
+Proprietary License
+Copyright (c) 2024 Leanna Roys
+
+All rights reserved.
+
+Terms and Conditions
+By accessing or using the design files or code in this repository, you agree to the following terms:
+
+Ownership: The design files, source code, and all associated materials in this repository are the sole property of Leanna Roys. The intellectual property rights and ownership of these materials remain with Leanna Roys at all times.
+
+Usage: You are not allowed to use, modify, distribute, or share these files or any part of them without explicit written permission from Leanna Roys. Any unauthorized use or redistribution is prohibited.
+
+License: This repository is provided under a proprietary license, and the design files and code are strictly for personal reference or internal use only. You do not have the right to use these files for any commercial purposes, including but not limited to selling, sublicensing, or incorporating them into other projects, without prior approval from Leanna Roys.
+
+No Warranty: The design files and code are provided "as-is" without any warranties of any kind, either express or implied. Leanna Roys does not guarantee that the files or code will be free from errors or issues.
+
+Termination: Any violation of the above terms will result in the immediate termination of your right to access or use the materials in this repository.
+
+For permission requests, inquiries, or licensing options, please contact Leanna Roys at leanna.ux@outlook.com
